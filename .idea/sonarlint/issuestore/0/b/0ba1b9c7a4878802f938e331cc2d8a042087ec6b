@@ -1,0 +1,28 @@
+
+×
+java:S1192m"Define a constant instead of duplicating this literal "ĞšĞ¾Ñ€Ğ¸ÑÑ‚ÑƒĞ²Ğ°Ñ‡Ğ° Ğ· Ñ‚Ğ°ĞºĞ¸Ğ¼ Ğ¿Ñ€Ñ–Ğ·Ğ²Ğ¸Ñ‰ĞµĞ¼ Ğ½Ğµ Ğ·Ğ½Ğ°Ğ¹Ğ´ĞµĞ½Ğ¾" 3 times.(µÎù¥şÿÿÿÿ8çÀàá‰2J$daeb41af-8305-4957-ace9-6572bfd7fb49
+”
+java:S1128"RRemove this unused import 'com.aimiko.task5.persistence.exeption.FileIOException'.(ƒ«à8­Áàá‰2J$90a37f63-1171-49c3-a66e-4b895ae0ebca
+–
+java:S1128"SRemove this unused import 'com.aimiko.task5.persistence.repository.TxtPathFactory'.(ö²ç8®Áàá‰2J$f6372426-c6fa-41ba-81b5-9a1ae9c3f444
+u
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8®Áàá‰2J$4400941c-2723-413e-b181-b8b38c9a1e51
+w
+java:S1128	"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8®Áàá‰2J$3150eb06-433c-4fde-a690-9a6bfbcd8bd7
+x
+java:S1128
+"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8®Áàá‰2J$b5b45e35-ade5-4ae7-93dd-8ee2af751158
+s
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8¯Áàá‰2J$00315306-be87-4864-ab9e-a8a115f1334c
+r
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8¯Áàá‰2J$6a18d5fe-2ec2-41d9-af1f-69fa064c3b5b
+s
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8¯Áàá‰2J$927840df-5b7b-403f-96e4-cc12ffc3a249
+€
+java:S1128"=Remove this unused import 'java.nio.file.StandardOpenOption'.(¸ ÅÎ8¯Áàá‰2J$3beec28a-bd89-47b9-89ea-1823738d95f5
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8°Áàá‰2J$b6dcf25f-956e-4052-aa00-53b2b9f421db
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8°Áàá‰2J$399dcd00-cc84-4815-9be8-a4a781537147
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8°Áàá‰2J$c1d1f585-9e9e-4846-8ee4-405a1dacda50
